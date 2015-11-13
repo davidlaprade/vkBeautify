@@ -1,0 +1,26 @@
+{
+  "name": "vkBeautify",
+  "version": "0.99.00",
+  "homepage": "https://github.com/vkiryukhin/vkBeautify",
+  "authors": [ "Kartik Visweswaran <kartikv2@gmail.com>" ],
+  "description": "vkBeautify is a small, simple and powerfull javascript plugin to beautify XML, JSON, CSS and SQL text.",
+  "main": [
+    "./vkbeautify.js",
+    "./main.js",
+    "./main.css" ],
+  "keywords": [
+    "file",
+    "input",
+    "preview",
+    "image",
+    "upload",
+    "ajax",
+    "multiple",
+    "delete",
+    "progress",
+    "gallery"
+  ],
+  "dependencies": { "jquery": ">= 1.5.0" },
+  "license": "MIT",
+  "ignore": [ "**/.*" ]
+}
